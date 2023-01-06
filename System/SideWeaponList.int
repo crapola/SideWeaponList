@@ -1,0 +1,2 @@
+[public]
+Object=(Name=SideWeaponList.SideWeaponListMutator,Class=Class,MetaClass=Engine.Mutator,Description="Side Weapon List,Shows a vertical colored weapon list on the right side.")
